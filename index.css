@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: darkblue;
+}
+#mainheading{
+    display: flex;
+    flex-direction: column;
+}
+#btn{
+    display: flex;
+
+}
+h1{
+    color: white;
+    /* align-items: center; */
+    justify-content: center;
+}
+button{
+    color: azure;
+    background-color: cadetblue;
+}
